@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Pepperbot & Simlish Translator
+- 🌱 I’m currently learning Blazor
+- 👯 I’m looking to collaborate on Discord Bots
+- 📫 How to reach me: Turtlepaw#3806 (Discord)
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I created 5 Discord Bots
 <!--
 **TurtlePaw/turtlepaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
