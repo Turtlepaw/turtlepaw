@@ -6,7 +6,7 @@
 
 ## ⌨️ My favorite languages
 
-1. [TypeScript](https://typescriptlang.org)
+1. [✨ TypeScript ✨](https://typescriptlang.org)
 2. [JavaScript](https://javascript.com)
 
 ## ⭐ My favorite tools
