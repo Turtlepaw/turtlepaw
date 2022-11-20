@@ -1,20 +1,22 @@
+<div align="center">
+
+### 🌐 [trtle.xyz](trtle.xyz)
 # Hey there 👋
-> Welcome to my Github profile README!
+I'm Turtlepaw, welcome to my Github profile!
 
-[![Website](https://shields.io/badge/website-trtle.xyz-blue.svg?style=for-the-badge)](https://trtle.xyz/)
-[![Horizon](https://shields.io/badge/Horizon-An%20Open%20source%20Discord%20Bot-5865f2.svg?style=for-the-badge)](https://trtle.xyz/)
+</div>
 
-## ⌨️ My favorite languages
+## 💻 Languages
 
 1. [✨ TypeScript ✨](https://typescriptlang.org)
-2. [JavaScript](https://javascript.com)
+2. [🗑️ ~~JavaScript~~](https://javascript.com)
 
 ## ⭐ My favorite tools
 
-- [Next.js](https://nextjs.org/)
-- [Vercel](https://vercel.com/)
-- [Github](https://github.com/)
+- [Next.js](https://nextjs.org/) - typescript website framework
+- [Vercel](https://vercel.com/) - free website host
+- [Github](https://github.com/) - what you're on!
 
 ## 📦 Projects I'm currently working on
 
-- [TS4M: The sims 4 Modding](https://ts4.vercel.app/) - [Github](https://github.com/Turtlepaw/sims-4-mods) - The open-source Sims 4 mod listing website and mod manager
+- [Beep Boop](https://bop.trtle.xyz/) - Beep Boop is a Discord bot designed for large communities.
