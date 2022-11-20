@@ -1,10 +1,6 @@
-<div align="center">
-
 ### 🌐 [trtle.xyz](trtle.xyz)
 # Hey there 👋
 I'm Turtlepaw, welcome to my Github profile!
-
-</div>
 
 ## 💻 Languages
 
