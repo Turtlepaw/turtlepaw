@@ -1,4 +1,4 @@
-### 🌐 [trtle.xyz](https://trtle.xyz)
+### 🌐 [trtle.vercel.app (previously trtle.xyz)](https://trtle.vercel.app)
 # Hey there 👋
 I'm Turtlepaw, welcome to my Github profile!
 
