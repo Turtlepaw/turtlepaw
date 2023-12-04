@@ -15,4 +15,5 @@ I'm Turtlepaw, welcome to my Github profile!
 
 ## 📦 Projects I'm currently working on
 
-- [Beep Boop](https://bop.trtle.xyz/) - Beep Boop is a Discord bot designed for large communities.
+- [Beep Boop]([https://bop.trtle.xyz/](https://beepboop.vercel.app/)) - Beep Boop is a Discord bot designed for large communities.
+- ✨ Something New - I'll be adding this once we release it!
