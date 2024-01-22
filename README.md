@@ -1,4 +1,5 @@
 ### 🌐 [trtle.vercel.app (previously trtle.xyz)](https://trtle.vercel.app)
+![](https://komarev.com/ghpvc/?username=turtlepaw&style=for-the-badge)
 
 # Hey there 👋
 
