@@ -2,6 +2,7 @@
 <img src="./assets/banner.png" alt="Turtlepaw Banner"/>
 
 ### 🌐 [trtle.vercel.app (previously trtle.xyz)](https://trtle.vercel.app)
+![](https://komarev.com/ghpvc/?username=turtlepaw&style=for-the-badge)
 
 # ![](https://cdn.discordapp.com/emojis/394101112652693526.gif?size=32) Hey, I'm Turtlepaw
 
