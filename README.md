@@ -2,6 +2,7 @@
 <img src="./assets/banner.png" alt="Turtlepaw Banner"/>
 
 ### 🌐 [trtle.vercel.app (previously trtle.xyz)](https://trtle.vercel.app)
+
 ![](https://komarev.com/ghpvc/?username=turtlepaw&style=for-the-badge)
 
 # ![](https://cdn.discordapp.com/emojis/394101112652693526.gif?size=32) Hey, I'm Turtlepaw
@@ -34,3 +35,7 @@ Here's some projects I'm currently working on:
 
 [![@beaverfy/builder](https://github-readme-stats.vercel.app/api/pin/?username=beaverfy&repo=builder&theme=dark)](https://github.com/beaverfy/builder/)
 [![@beaverfy/react-native-wear](https://github-readme-stats.vercel.app/api/pin/?username=beaverfy&repo=react-native-wear&theme=dark)](https://github.com/beaverfy/react-native-wear/)
+
+#### ![](https://cdn.discordapp.com/emojis/351097460589854720.png?size=16) You've added a view!
+
+![](https://komarev.com/ghpvc/?username=turtlepaw&style=for-the-badge)
