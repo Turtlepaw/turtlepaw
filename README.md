@@ -13,21 +13,21 @@
 
 I'm Turtlepaw, welcome to my Github profile! I'm a typescript developer, but I am getting into kotlin development to make Wear OS apps!
 
-# ![](https://cdn.discordapp.com/emojis/463767725655719956.png?size=32) Languages
+# ![](https://cdn.discordapp.com/emojis/496335045007638528.png?size=32) Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turtlepaw&layout=compact&theme=dark)
 
 > [!NOTE]
 > Ignore CSS, I don't like it
 
-#### ⭐ Favorite tools
+### ![](https://cdn.discordapp.com/emojis/351097460589854720.png?size=24) Favorite tools
 
 > - [Expo](https://expo.dev/) - open-source react native framework
 > - [Next.js](https://nextjs.org/) - typescript website framework
 > - [Vercel](https://vercel.com/) - free website host
 > - [Github](https://github.com/) - what you're on!
 
-# ![](https://cdn.discordapp.com/emojis/778655754621419540.gif?size=32) Projects I'm building
+# ![](https://cdn.discordapp.com/emojis/455010658157592587.gif?size=32) Projects I'm building
 
 Here's some projects I'm currently working on:
 
