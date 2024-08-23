@@ -23,7 +23,7 @@ Hello! Welcome to my Github profile! I'm a Kotlin developer and build open-sourc
 > - [Vercel](https://vercel.com/) - free website host
 > - [Github](https://github.com/) - what you're on!
 
-# 🌿 Projects I'm building
+## 🌿 Projects I'm building
 
 Here's some projects I'm currently working on:
 
