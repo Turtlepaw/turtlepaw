@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/banner.png" alt="Turtlepaw Banner"/>
+<!-- <img src="./assets/banner.png" alt="Turtlepaw Banner"/> -->
 
 ### 🌐 [trtle.vercel.app (previously trtle.xyz)](https://trtle.vercel.app)
 
