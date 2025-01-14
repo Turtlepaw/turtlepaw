@@ -15,6 +15,7 @@ Welcome to my github profile!
 ### ![](https://cdn.discordapp.com/emojis/498482064861954048.png?size=24) What I do
 
 > - <img src="/assets/android-head_3D.png" width="26" height="16">‎ ‎ ‎Build Android: [Evolution X](https://evolution-x.org/)
+> - <img src="/assets/Wear_OS_icon.png" width="26" height="20">‎ ‎ Build Wear OS apps: [awesome-wear-os](https://github.com/WearOSCommunity/awesome-wear-os)
 
 ---
 
