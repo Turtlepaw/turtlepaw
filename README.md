@@ -5,7 +5,7 @@ Welcome to my github profile!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turtlepaw&layout=compact&theme=dark)
 
-### ![](https://cdn.discordapp.com/emojis/351097460589854720.png?size=24) Favorite tools
+### ![](https://cdn.discordapp.com/emojis/351097460589854720.png?size=24) Favorite tools and stuff
 
 > - [Pocketbase](https://pocketbase.io/) - open-source backend
 > - [Flutter](https://flutter.dev/) - android framework
