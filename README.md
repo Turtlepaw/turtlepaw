@@ -10,12 +10,14 @@ Welcome to my github profile!
 > - [Pocketbase](https://pocketbase.io/) - open-source backend
 > - [Flutter](https://flutter.dev/) - android framework
 > - [Vercel](https://vercel.com/) - free website host
+> - [Cloudflare](https://cloudflare.com/) - basically everything web + pages
 > - [Github](https://github.com/) - what you're on!
+> - [AT Protocol](https://atproto.com) - open protocol for social media and more!
 
 ### ![](https://cdn.discordapp.com/emojis/498482064861954048.png?size=24) What I do
 
-> - <img src="/assets/android-head_3D.png" width="26" height="16">‎ ‎ ‎Build Android: [Evolution X](https://evolution-x.org/)
-> - <img src="/assets/Wear_OS_icon.png" width="26" height="18">‎ ‎ Build Wear OS apps: [awesome-wear-os](https://github.com/WearOSCommunity/awesome-wear-os)
+> - <img src="/assets/android-head_3D.png" width="26" height="16">‎ ‎ ‎Build Android apps
+> - ~~<img src="/assets/Wear_OS_icon.png" width="26" height="18">‎ ‎ Build Wear OS apps: [awesome-wear-os](https://github.com/WearOSCommunity/awesome-wear-os)~~
 
 ---
 
